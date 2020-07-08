@@ -11,11 +11,6 @@
     "build:docs": "vue-cli-service build --mode production --dest docs",
     "lint": "vue-cli-service lint"
   },
-  "dependencies": {
-    "core-js": "^3.4.4",
-    "vue": "^2.6.10",
-    "vue-heroicons": "^0.9.1"
-  },
   "keywords": [
     "vue",
     "vuejs"
